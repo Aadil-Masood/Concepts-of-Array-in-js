@@ -1,7 +1,16 @@
 var animals = ['Ant', 'Antelope','Baboon','Bat','Beagle', 'Bear','Bird','Butterfly','Cat','Caterpillar'];
 
 // to check by index value
+console.log(animal[0]);
+console.log(animal[1]);
+console.log(animal[2]);
+console.log(animal[3]);
+console.log(animal[4]);
 console.log(animal[5]);
+console.log(animal[6]);
+console.log(animal[7]);
+console.log(animal[8]);
+console.log(animal[9]);
 
 // length of Array
 console.log(animal.length);
